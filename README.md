@@ -1,6 +1,6 @@
 # OpenAI API Quickstart modified - Python example app with extension beyond pet names
 
-This is an extended version of the Open AI animal name generator example. Very simple toy adjusted to answer ANY prompt (and has a stylish HTML gui with a wild car :-))))))) 
+This is an extended version of the Open AI animal name generator example. Very simple toy adjusted to answer ANY prompt (and has a stylish HTML gui with a wild cat :-))))))) 
 
 ## Setup
 
